@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+### About
 
-You can use the [editor on GitHub](https://github.com/xuqhang/xuqhang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Xu Qinhang, and I haven't got a favorite English name at present. 
+Now I'm a master student(civilian, not military) in the Department of Computer Science, National University of Defense Technology, supervised by [Ting Wang](http://www.icourses.cn/web/sword/portal/teacherDetails?userId=ff80808140ce83a70140cfb499a4008d) and [Jintao Tang](http://www.icourses.cn/web/sword/portal/teacherDetails?userId=ff80808140dacae90140e17cdef804e3). Before that, I obtained my Bachelor'degree in measurement and control technology and instruments, from the College of Biomedical Engineering & Instrument Science, Zhejiang University, supervised by [Hai Huang](http://www.cbeis.zju.edu.cn/_redirect?siteId=448&columnId=23703&articleId=902183) and [Yongchang Ma].
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Interest
+Now my research interests are natural language processing and its applications in industry. 
+Previously, my interests are Robotics and Electronic Engeering, and most of the programs and competitions are cooperated with my friends, they are [Zhe Chen](https://vision.ist.i.kyoto-u.ac.jp/people/)(Phd in Kyoto University, Japan), [Ning Zhang](https://www.linkedin.com/in/znsuperman/)(Phd in Brown University, US), Dongxuan Li(Netease, Hangzhou), Jianzhi Shao(Netease, Hangzhou) and Qinyang Xu(master in Technical University of Munich, German).
 
-### Markdown
+### Awards
+ NI cup LabView student design competition best in chinese region and top 10 in the World
+ TI cup measurement-control and instrument desgin competition second prize of China 
+ Supcon cup robot competition(track of software) second prize of ZJU
+ supcon cup robot competition(track of Hardware) third prize of ZJU
+ Huawei cup innovation competition third prize of ZJU
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publication
 
-```markdown
-Syntax highlighted code block
+### Contact
+Homepage:[xuqhang's homepage](https://xuqhang.github.io)
+E-mail:xuqhang@163.com
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xuqhang/xuqhang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
