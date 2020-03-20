@@ -4,7 +4,9 @@ My name is Xu Qinhang, now I'm a master student(civilian, not military) in the D
 
 ### Interest
 Now my research interests are natural language processing and its applications in industry. 
-Previously, my interests are Robotics and Electronic Engeering, and most of the programs and competitions are cooperated with my friends, they are [Zhe Chen](https://vision.ist.i.kyoto-u.ac.jp/people/)(Phd in Kyoto University, Japan), [Ning Zhang](https://www.linkedin.com/in/znsuperman/)(Phd in Brown University, US), Dongxuan Li(Netease, Hangzhou), Jianzhi Shao(Netease, Hangzhou) and Qinyang Xu(Master in Technical University of Munich, Germany).
+Previously, my interests are Robotics and Electronic Engeering, and most of the programs and competitions are completed with my friends, they are [Zhe Chen](https://vision.ist.i.kyoto-u.ac.jp/people/)(Phd in Kyoto University, Japan), [Ning Zhang](https://www.linkedin.com/in/znsuperman/)(Phd in Brown University, US), Dongxuan Li(Netease, Hangzhou), Jianzhi Shao(Netease, Hangzhou) and Qinyang Xu(Master in Technical University of Munich, Germany).
+
+### Publication
 
 ### Awards
  NI cup LabView student design competition best in chinese region and top 10 in the World  
@@ -12,8 +14,9 @@ Previously, my interests are Robotics and Electronic Engeering, and most of the 
  Supcon cup robot competition(track of software) second prize of ZJU  
  Supcon cup robot competition(track of Hardware) third prize of ZJU  
  Huawei cup innovation competition third prize of ZJU  
-
-### Publication
+ 
+### Media
+[Students from CBEIS win top 10 in the world](http://www.news.zju.edu.cn/2014/0929/c24346a63619/page.htm)
 
 ### Contact
 Homepage:[xuqhang's homepage](https://xuqhang.github.io)  
