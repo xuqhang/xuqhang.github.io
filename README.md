@@ -5,14 +5,14 @@ Now I'm a master student(civilian, not military) in the Department of Computer S
 
 ### Interest
 Now my research interests are natural language processing and its applications in industry. 
-Previously, my interests are Robotics and Electronic Engeering, and most of the programs and competitions are cooperated with my friends, they are [Zhe Chen](https://vision.ist.i.kyoto-u.ac.jp/people/)(Phd in Kyoto University, Japan), [Ning Zhang](https://www.linkedin.com/in/znsuperman/)(Phd in Brown University, US), Dongxuan Li(Netease, Hangzhou), Jianzhi Shao(Netease, Hangzhou) and Qinyang Xu(master in Technical University of Munich, German).
+Previously, my interests are Robotics and Electronic Engeering, and most of the programs and competitions are cooperated with my friends, they are [Zhe Chen](https://vision.ist.i.kyoto-u.ac.jp/people/)(Phd in Kyoto University, Japan), [Ning Zhang](https://www.linkedin.com/in/znsuperman/)(Phd in Brown University, US), Dongxuan Li(Netease, Hangzhou), Jianzhi Shao(Netease, Hangzhou) and Qinyang Xu(master in Technical University of Munich, Germany).
 
 ### Awards
- NI cup LabView student design competition best in chinese region and top 10 in the World
- TI cup measurement-control and instrument desgin competition second prize of China 
- Supcon cup robot competition(track of software) second prize of ZJU
- supcon cup robot competition(track of Hardware) third prize of ZJU
- Huawei cup innovation competition third prize of ZJU
+ NI cup LabView student design competition best in chinese region and top 10 in the World  
+ TI cup measurement-control and instrument desgin competition second prize of China   
+ Supcon cup robot competition(track of software) second prize of ZJU  
+ supcon cup robot competition(track of Hardware) third prize of ZJU  
+ Huawei cup innovation competition third prize of ZJU  
 
 ### Publication
 
