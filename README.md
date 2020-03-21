@@ -5,7 +5,12 @@ My name is Xu Qinhang, now I'm a master student(civilian, not military) in the D
 ***
 ### Research Interests
 Now my research interests are natural language processing and its applications in industry. 
-Previously, my interests are Robotics and Electronic Engeering, and most of the programs and competitions are completed with my friends, they are [Zhe Chen](https://vision.ist.i.kyoto-u.ac.jp/people/) (Phd in Kyoto University, Japan), [Ning Zhang] (https://www.linkedin.com/in/znsuperman/) (Phd in Brown University, US), Dongxuan Li (Netease, Hangzhou), Jianzhi Shao (Netease, Hangzhou) and Qinyang Xu (Master in Technical University of Munich, Germany).
+Previously, my interests are Robotics and Embedded system, and most of the programs and competitions are completed with my friends, they are [Zhe Chen](https://vision.ist.i.kyoto-u.ac.jp/people/) (Phd in Kyoto University, Japan), [Ning Zhang] (https://www.linkedin.com/in/znsuperman/) (Phd in Brown University, US), Dongxuan Li (Netease, Hangzhou), Jianzhi Shao (Netease, Hangzhou) and Qinyang Xu (Master in Technical University of Munich, Germany).
+
+***
+### Experience
++Exchange students in the Department of Biomedical Engineering in National University of Singapore,Singapore
++Engineer in Huawei Hanzhou Research Center
 
 ***
 ### Publications
