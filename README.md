@@ -17,7 +17,7 @@ Previously, my interests are Robotics and Embedded system, and most of the progr
 
 ***
 ### Awards
-* NI cup LabVIEWstudent design competition best in China and top 10 in the World [about the program](https://forums.ni.com/t5/General-Academic-Projects/The-bionic-mechanical-arm-system-based-on-Kinect-and-LABVIEW/ta-p/3518917?profile.language=en)
+* NI cup LabVIEW student design competition best in China and top 10 in the World [about the project](https://forums.ni.com/t5/General-Academic-Projects/The-bionic-mechanical-arm-system-based-on-Kinect-and-LABVIEW/ta-p/3518917?profile.language=en)
 * TI cup measurement-control and instrument desgin competition second prize of China [about the competition](https://e2echina.ti.com/group/universityprogram/w/contests/477)   
 * Supcon cup robot competition(track of software) second prize of ZJU  
 * Supcon cup robot competition(track of hardware) third prize of ZJU  
