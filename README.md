@@ -4,8 +4,8 @@ My name is Xu Qinhang, now I'm a master student(civilian, not military) in the D
 
 ***
 ### Research Interests
-Now my research interests are natural language processing and its applications. 
-Previously, my interests are Robotics and Embedded system, and most of the programs and competitions are completed with my friends, they are [Zhe Chen](https://chenzhekl.me/?fbclid=IwAR3gEnxEGD4U80DM4ESv7Y6Nbpi_6qgMAMKKkGidrJTCMzJ3c9OH4GUeYXk) (Phd in Kyoto University, Japan), [Ning Zhang](https://www.linkedin.com/in/znsuperman/) (Phd in Brown University, US) and Qinyang Xu (Master in Technical University of Munich, Germany).
+Now my research interests are recommendation system and natural language processing. 
+Previously, my interests are Robotics and Embedded system, and most of the programs and competitions are completed with my friends [Zhe Chen](https://zchen.im/) and [Ning Zhang](https://www.linkedin.com/in/znsuperman/).
 
 ***
 ### Experience
