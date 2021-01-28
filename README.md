@@ -25,7 +25,7 @@ Previously, my interests are Robotics and Embedded system, and most of the progr
  
 ***
 ### Media
-[Students from CBEIS win top 10 in the world](http://www.news.zju.edu.cn/2014/0929/c24346a63619/page.htm)
+[Students from CBEIS win top10 in the world](http://www.news.zju.edu.cn/2014/0929/c24346a63619/page.htm)
 
 ***
 ### Contact
