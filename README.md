@@ -10,7 +10,7 @@ Previously, my interests are Robotics and Embedded system, and most of the progr
 ***
 ### Experience
 * Exchange students in the Department of Biomedical Engineering in National University of Singapore,Singapore
-* Engineer in Huawei Hanzhou Research Center
+* Engineer in Huawei Hangzhou Research Center
 
 ***
 ### Publications
