@@ -1,6 +1,6 @@
 ### About
 
-My name is Xu Qinhang, now I'm a master student(civilian, not military) in the Department of Computer Science, [National University of Defense Technology](https://english.nudt.edu.cn/), supervised by [Ting Wang](http://www.icourses.cn/web/sword/portal/teacherDetails?userId=ff80808140ce83a70140cfb499a4008d) and [Jintao Tang](http://www.icourses.cn/web/sword/portal/teacherDetails?userId=ff80808140dacae90140e17cdef804e3). Before that, I obtained my Bachelor's degree in measurement & control technology and instrumentation, from the [College of Biomedical Engineering & Instrument Science](http://www.cbeis.zju.edu.cn/cbeisen/), [Zhejiang University](http://www.zju.edu.cn/english/), supervised by [Hai Huang](https://person.zju.edu.cn/en/0082083) and Yongchang Ma.
+My name is Xu Qinhang, now I'm a master student in the Department of Computer Science, [National University of Defense Technology](https://english.nudt.edu.cn/), supervised by [Ting Wang](http://www.icourses.cn/web/sword/portal/teacherDetails?userId=ff80808140ce83a70140cfb499a4008d) and [Jintao Tang](http://www.icourses.cn/web/sword/portal/teacherDetails?userId=ff80808140dacae90140e17cdef804e3). Before that, I obtained my Bachelor's degree in Measurement & Control Technology and Instrumentation, from the [College of Biomedical Engineering & Instrument Science](http://www.cbeis.zju.edu.cn/cbeisen/), [Zhejiang University](http://www.zju.edu.cn/english/), supervised by [Hai Huang](https://person.zju.edu.cn/en/0082083).
 
 ***
 ### Research Interests
