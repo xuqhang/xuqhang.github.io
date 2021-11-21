@@ -5,7 +5,6 @@ My name is Xu Qinhang, now I'm a master student in the Department of Computer Sc
 ***
 ### Research Interests
 Now my research interests are recommendation system and natural language processing. 
-Previously, my interests are Robotics and Embedded system, and most of the programs and competitions are completed with my friends [Zhe Chen](https://zchen.im/) and [Ning Zhang](https://www.linkedin.com/in/znsuperman/).
 
 ***
 ### Experience
