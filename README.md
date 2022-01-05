@@ -13,7 +13,9 @@ Now my research interests are recommendation system and natural language process
 
 ***
 ### Publications
+
 Fine-Grained Cross-Domain Recommendation via Two-Tier Attention and Three-Channel Learning, in ICIAI 2022.
+
 ***
 ### Awards
 * NI cup LabVIEW student design competition best in China and top 10 in the World [about the project](https://forums.ni.com/t5/General-Academic-Projects/The-bionic-mechanical-arm-system-based-on-Kinect-and-LABVIEW/ta-p/3518917?profile.language=en)
